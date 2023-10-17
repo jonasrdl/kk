@@ -2,6 +2,11 @@
 
 Basic backend system to CRUD index cards (Karteikarten)
 
+# Usage
+Build an executable via `go build -o kk`   
+Then run the executable via `./kk`
+Then the API is running on port `8080` and can be accessed via `http://localhost:8080/api`
+
 # API Documentation
 
 ## Indexcards
