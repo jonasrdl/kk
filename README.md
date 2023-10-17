@@ -1,5 +1,7 @@
 # Karteikarten
 
+Basic backend system to CRUD index cards (Karteikarten)
+
 # API Documentation
 
 ## Indexcards
